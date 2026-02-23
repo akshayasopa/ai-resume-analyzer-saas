@@ -1,11 +1,6 @@
-fastapi
-uvicorn
 streamlit
-requests
-python-multipart
-PyPDF2
+sentence-transformers
 scikit-learn
 pandas
-sentence-transformers
 torch==2.2.2+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
